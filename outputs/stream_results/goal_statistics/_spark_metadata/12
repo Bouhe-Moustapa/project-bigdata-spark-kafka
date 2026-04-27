@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspace/data/mini_project/streaming/goal_statistics/part-00000-be87d729-62fa-446c-ad37-b858ec520838-c000.snappy.parquet","size":1155,"isDir":false,"modificationTime":1777026360689,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspace/data/mini_project/streaming/goal_statistics/part-00003-84fea06c-e390-4d2c-818b-b91c8de407c8-c000.snappy.parquet","size":3002,"isDir":false,"modificationTime":1777026360742,"blockReplication":1,"blockSize":33554432,"action":"add"}
