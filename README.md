@@ -1,18 +1,6 @@
 # ⚽ Soccer Match Analytics — Big Data Pipeline with Apache Spark & Kafka
 
-<div align="center">
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.5.x-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-3.x-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-ML-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-*An end-to-end Big Data pipeline combining real-time stream processing and machine learning for football championship analytics.*
-
-</div>
-
----
 
 ##  Overview
 
@@ -93,32 +81,18 @@ projet-bigdata-spark-kafka/
 
 ## 🛠️ Technology Stack
 
-| Layer | Technology | Version |
+| Layer | Technology 
 |---|---|---|
-| Stream Ingestion | Apache Kafka | 3.x |
-| Stream Processing | Apache Spark Structured Streaming | 3.5.x |
-| Machine Learning | PySpark MLlib (Random Forest) | 3.5.x |
-| Data Exploration | Jupyter Notebook / JupyterLab | — |
-| Language | Python | 3.x |
-| Data Format | Apache Parquet, JSON, CSV | — |
+| Stream Ingestion | Apache Kafka
+| Stream Processing | Apache Spark Structured Streaming
+| Machine Learning | PySpark MLlib (Random Forest)
+| Data Exploration | Jupyter Notebook / JupyterLab
+| Language | Python
+| Data Format | Apache Parquet, JSON, CSV
 
 ---
 
-## ⚙️ Prerequisites
 
-Ensure the following are installed and properly configured on your system:
-
-- **Apache Spark** ≥ 3.5.x
-- **Apache Kafka** ≥ 3.x (broker running locally or accessible)
-- **Python** ≥ 3.8 with the following packages:
-
-```bash
-pip install pyspark pandas confluent-kafka
-```
-
-- **Jupyter Notebook** or JupyterLab
-
----
 
 ##  Getting Started
 
